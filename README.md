@@ -3,7 +3,7 @@
 An API for Tunisian Dialect to English Words
 
 <p align="center">
-<img src="screenshot.png" alt="drawing" width="350"/>
+<img src="screenshot1.png" alt="drawing" width="350"/>
 </p>
 
 # Routes details
